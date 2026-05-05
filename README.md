@@ -17,6 +17,12 @@ my-pretty-decent-skills/
 
 ## Included Skills
 
+### Creative
+- `chutes-image` — Generate images using the Chutes AI Image Generation API
+
+### Vision
+- `chutes-vision` — Image analysis and visual understanding using Chutes AI AI Vision
+
 See each skill's `SKILL.md` for usage.
 
 ## Philosophy
